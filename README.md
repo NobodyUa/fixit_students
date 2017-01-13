@@ -41,7 +41,7 @@ npm start
 
 You want to **checkout this cool service**? Simply start the service by runningy `npm start` and head over to: [http://localhost:3000/documentation](http://localhost:3000/documentation). We're using  [swagger](https://www.npmjs.com/package/hapi-swagger) to have this super cool API discrovery/documentation tool. BTW.: Did you already discoverd the super easy swagger integration inside [/routes.js](https://github.com/rmeissn/fixit_students/blob/master/routes.js)? Tags 'api' and 'description' were everything we needed to add.
 
-### What's about Continuous Integration/Delivery? ###
+### What's about Continuous Integration/Delivery? ####
 ---
 Continuous Integration and possibly Continuous Delivery is currently setup by using the (for OSS projects) free to use web application [Travis-CI](https://travis-ci.org/). By clicking on the first badge (see at the top), you will be redirected to Travis-CI. There you can have a look at all the different build stages.
 
